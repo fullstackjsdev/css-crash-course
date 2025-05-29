@@ -1,2 +1,1 @@
-# css-crash-course
-CSS Crash Course
+# CSS Crash Course
